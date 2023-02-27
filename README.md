@@ -33,5 +33,6 @@ Each time user click the Generate Password button, the password will be displaye
 
 https://github.com/mackarimi/javascript-psgenerator
 
+https://mackarimi.github.io/javascript-psgenerator/
 
 
